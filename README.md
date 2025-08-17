@@ -1,4 +1,5 @@
-Hi there! 
+Hi there! ![Uploading CuteChaPriGIF.gif…]()
+
 I’m sumit, a web dev based in India.
 
 I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
