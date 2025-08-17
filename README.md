@@ -1,4 +1,4 @@
-Hi there! ![Uploading CuteChaPriGIF.gif…]()
+Hi there! 😁
 
 I’m sumit, a web dev based in India.
 
