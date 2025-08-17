@@ -1,17 +1,10 @@
-# 👋 Hi, I'm Sumit!
+Hi there! 
+I’m sumit, a web dev based in India.
 
-Frontend explorer, UI clone artist, and strategic thinker with a love for clean code and pixel precision.
+I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
 
-## 💻 What I Do
-- 🎨 Clone famous websites for fun and skill
-- ⚖️ Simulate Supreme Court cases for logic workouts
-- 🧠 Solve puzzles and chase milestones like a badge hunter
+Outside of code and Figma, you’ll find me watching anime, hitting the gym, or drawing. 
 
-## 🎯 Current Goals
-- Build a UI clone repo that turns heads
-- Max out Google Arcade points
-- Speak English like a TED speaker (but cooler)
-
-## 🧃 Fun Facts
-- I once installed Linux using just one USB. No big deal.
-- I think GitHub should have achievement badges. Just saying.
+Fun Facts:
+I don’t like coffee or tea.
+Attack On Tittan is my favorite anime.
