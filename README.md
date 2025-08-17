@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Sumit!
 
-<!--
-**SumitZen/sumitZen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend explorer, UI clone artist, and strategic thinker with a love for clean code and pixel precision.
 
-Here are some ideas to get you started:
+## 💻 What I Do
+- 🎨 Clone famous websites for fun and skill
+- ⚖️ Simulate Supreme Court cases for logic workouts
+- 🧠 Solve puzzles and chase milestones like a badge hunter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Goals
+- Build a UI clone repo that turns heads
+- Max out Google Arcade points
+- Speak English like a TED speaker (but cooler)
+
+## 🧃 Fun Facts
+- I once installed Linux using just one USB. No big deal.
+- I think GitHub should have achievement badges. Just saying.
